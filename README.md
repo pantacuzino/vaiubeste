@@ -6,10 +6,18 @@ you can?
 
 ## Introduction Screen
 
+{{ if it's your first time logging in }}
+
 You are on a train and in the next two minutes it will crash leading to your death. 
 You think of your loved ones and try to call your parents, siblings or friends.
 You cannot get ahold of them, they are busy.
 Your phone will survive the crash. What would you say to them?
+
+? Render it as a comic strip
+
+{{ else }}
+
+You see a list of actions: send again, record, send to others
 
 ## Record your love
 
