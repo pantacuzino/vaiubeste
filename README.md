@@ -1,7 +1,15 @@
 # vaiubeste
 bogdan.vaiubeste/petoti
 
-A place where you can register one message of love to be spread out to people you love the most. There are a lot of movies where people in dire situations call their most loved ones and tell them they love them. Why wouldn't you do this whenever you can?
+A place where you can register one message of love to be spread out to people you love the most. There are a lot of movies where people in dire situations call their most loved ones and tell them they love them. Why wouldn't you do this whenever
+you can?
+
+## Introduction Screen
+
+You are on a train and in the next two minutes it will crash leading to your death. 
+You think of your loved ones and try to call your parents, siblings or friends.
+You cannot get ahold of them, they are busy.
+Your phone will survive the crash. What would you say to them?
 
 ## Record your love
 
