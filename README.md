@@ -32,13 +32,13 @@ Device camera starts and you record.
 Select your social media contacts {{whatsapp|snapchat|expand}}
 
 [
-Bogdan
-Brother
-Maria
-Mother
-George
-Father
-Nicholas
+- Bogdan
+- Brother
+- Maria
+- Mother
+- George
+- Father
+- Nicholas
 ](sorted alphabetically or according to call list duration or frequency when available)
 
 or send this [[link]]
