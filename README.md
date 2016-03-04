@@ -48,3 +48,9 @@ or send this [[link]]
 - Daily
 - Weekly
 - One week before my loved ones birthday
+
+#### Customer Development
+
+- Ovidiu said he uses reminders of when to call his family to talk with them.
+- Maria says she doesn't need such a thing as it's too simple and she uses WhatsApp.
+
